@@ -6,3 +6,4 @@ Voici les étapes à faire pour partir le projet laravel !
 - username : Khalil
 - password : 1234
 
+Lien git : https://github.com/etienne-gagnon/gestion-taches.git
